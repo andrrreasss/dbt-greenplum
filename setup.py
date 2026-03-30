@@ -87,7 +87,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Mark Poroshin",
     author_email="mark.poroshin@yandex.ru",
-    url="https://github.com/markporoshin/dbt-greenplum",
+    url="https://github.com/andrrreasss/dbt-greenplum.git",
     packages=find_namespace_packages(include=["dbt", "dbt.*"]),
     package_data={
         "dbt": [
